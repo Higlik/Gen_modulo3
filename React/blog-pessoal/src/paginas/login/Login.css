@@ -1,0 +1,18 @@
+.textosL{
+     font-weight: bold !important;
+     color: rgb(0, 0, 0) !important;
+}
+
+.imagem{
+    background-image: url(https://cdn.donmai.us/sample/63/78/__dragon_slayer_ornstein_dark_souls_and_souls_from_software_drawn_by_yinwoeren__sample-6378dbad56be059935db1ce60a0f0580.jpg);
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-size:cover;
+    background-Position: initial;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+

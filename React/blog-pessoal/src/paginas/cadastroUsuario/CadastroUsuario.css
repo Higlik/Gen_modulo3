@@ -1,0 +1,30 @@
+.imagem2{
+    background-image: url(https://64.media.tumblr.com/c7f9c6e00d80680ec2df8eb702d88abd/tumblr_osq93vgjVR1r8l821o1_500.gif);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size:cover;
+    background-position:bottom;
+}
+
+.imagem3{
+    background-image: url(https://i.pinimg.com/736x/5b/0b/67/5b0b677d94808285cc355883a7171463.jpg);
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-size:cover;
+    background-position:initial;
+}
+
+
+
+.textosC{
+    font-weight:bolder !important;
+}
+
+.btnCancelar{
+    margin-right: 20px !important;
+}
+
+.color{
+    color: white !important;
+}
